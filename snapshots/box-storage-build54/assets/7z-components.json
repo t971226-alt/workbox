@@ -1,0 +1,112 @@
+[
+  {
+    "name": "py7zr",
+    "version": "1.1.4",
+    "licenses": [
+      "licenses/7z-packages/py7zr/py7zr-1.1.4.dist-info/licenses/LICENSE"
+    ],
+    "project_urls": [
+      "Homepage, https://py7zr.readthedocs.io/",
+      "Documentation, https://py7zr.readthedocs.io/en/stable/",
+      "Bug Tracker, https://github.com/miurahr/py7zr/issues",
+      "Source, https://github.com/miurahr/py7zr",
+      "Changelog, https://py7zr.readthedocs.io/en/latest/Changelog.html"
+    ]
+  },
+  {
+    "name": "pybcj",
+    "version": "1.0.8",
+    "licenses": [
+      "licenses/7z-packages/pybcj/pybcj-1.0.8.dist-info/licenses/LICENSE"
+    ],
+    "project_urls": [
+      "Homepage, https://pypi.org/project/pybcj",
+      "Bug Tracker, https://github.com/miurahr/pybcj/issues",
+      "Source, https://github.com/miurahr/pybcj",
+      "Changelog, https://github.com/miurahr/pybcj/blob/main/Changelog.rst"
+    ]
+  },
+  {
+    "name": "pyppmd",
+    "version": "1.3.1",
+    "licenses": [
+      "licenses/7z-packages/pyppmd/pyppmd-1.3.1.dist-info/licenses/LICENSE"
+    ],
+    "project_urls": [
+      "Source, https://github.com/miurahr/pyppmd",
+      "Homepage, https://pyppmd.readthedocs.io/",
+      "Documentation, https://pyppmd.readthedocs.io/en/stable/",
+      "Bug Tracker, https://github.com/miurahr/pyppmd/issues",
+      "Changelog, https://pyppmd.readthedocs.io/en/latest/changelog.html"
+    ]
+  },
+  {
+    "name": "inflate64",
+    "version": "1.0.4",
+    "licenses": [
+      "licenses/7z-packages/inflate64/inflate64-1.0.4.dist-info/licenses/COPYING"
+    ],
+    "project_urls": [
+      "Source, https://github.com/miurahr/inflate64",
+      "Homepage, https://inflate64.readthedocs.io/",
+      "Documentation, https://inflate64.readthedocs.io/en/stable/",
+      "Bug Tracker, https://github.com/miurahr/inflate64/issues",
+      "Changelog, https://inflate64.readthedocs.io/en/latest/changelog.html"
+    ]
+  },
+  {
+    "name": "brotli",
+    "version": "1.2.1",
+    "licenses": [
+      "licenses/7z-packages/brotli/brotli-1.2.1.dist-info/licenses/LICENSE"
+    ],
+    "project_urls": []
+  },
+  {
+    "name": "backports.zstd",
+    "version": "1.8.0",
+    "licenses": [
+      "licenses/7z-packages/backports.zstd/backports_zstd-1.8.0.dist-info/licenses/LICENSE.txt",
+      "licenses/7z-packages/backports.zstd/backports_zstd-1.8.0.dist-info/licenses/LICENSE_zstd.txt"
+    ],
+    "project_urls": [
+      "Homepage, https://github.com/rogdham/backports.zstd",
+      "Source, https://github.com/rogdham/backports.zstd"
+    ]
+  },
+  {
+    "name": "pycryptodomex",
+    "version": "3.24.1",
+    "licenses": [
+      "licenses/7z-packages/pycryptodomex/pycryptodomex-3.24.1.dist-info/LICENSE.rst"
+    ],
+    "project_urls": [
+      "Source, https://github.com/Legrandin/pycryptodome/",
+      "Changelog, https://www.pycryptodome.org/src/changelog"
+    ]
+  },
+  {
+    "name": "multivolumefile",
+    "version": "0.2.3",
+    "licenses": [
+      "licenses/7z-packages/multivolumefile/multivolumefile-0.2.3.dist-info/LICENSE"
+    ],
+    "project_urls": []
+  },
+  {
+    "name": "texttable",
+    "version": "1.7.2",
+    "licenses": [
+      "licenses/7z-packages/texttable/texttable-1.7.2.dist-info/licenses/LICENSE"
+    ],
+    "project_urls": []
+  },
+  {
+    "name": "psutil",
+    "version": "7.2.2",
+    "licenses": [
+      "licenses/7z-packages/psutil/psutil-7.2.2.dist-info/LICENSE"
+    ],
+    "project_urls": []
+  }
+]

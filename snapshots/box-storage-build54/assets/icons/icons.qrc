@@ -1,0 +1,25 @@
+<RCC><qresource prefix="/workbox/icons">
+  <file alias="arrow-left.svg">lucide/arrow-left.svg</file>
+  <file alias="arrow-right.svg">lucide/arrow-right.svg</file>
+  <file alias="arrow-up.svg">lucide/arrow-up.svg</file>
+  <file alias="calendar.svg">lucide/calendar.svg</file>
+  <file alias="check.svg">lucide/check.svg</file>
+  <file alias="chevron-down.svg">lucide/chevron-down.svg</file>
+  <file alias="copy.svg">lucide/copy.svg</file>
+  <file alias="ellipsis.svg">lucide/ellipsis.svg</file>
+  <file alias="eye-off.svg">lucide/eye-off.svg</file>
+  <file alias="eye.svg">lucide/eye.svg</file>
+  <file alias="layers-2.svg">lucide/layers-2.svg</file>
+  <file alias="list-filter.svg">lucide/list-filter.svg</file>
+  <file alias="minus.svg">lucide/minus.svg</file>
+  <file alias="package-open.svg">lucide/package-open.svg</file>
+  <file alias="plus.svg">lucide/plus.svg</file>
+  <file alias="power.svg">lucide/power.svg</file>
+  <file alias="refresh-cw.svg">lucide/refresh-cw.svg</file>
+  <file alias="rotate-ccw.svg">lucide/rotate-ccw.svg</file>
+  <file alias="search.svg">lucide/search.svg</file>
+  <file alias="sliders-horizontal.svg">lucide/sliders-horizontal.svg</file>
+  <file alias="square-pen.svg">lucide/square-pen.svg</file>
+  <file alias="upload.svg">lucide/upload.svg</file>
+  <file alias="x.svg">lucide/x.svg</file>
+</qresource></RCC>
