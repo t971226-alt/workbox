@@ -1,0 +1,31 @@
+{
+  "upstream": "https://github.com/lucide-icons/lucide",
+  "commit": "be09619c1c1124ad09c19fc3e87ee3b939409bbd",
+  "license": "ISC; includes Feather-derived MIT notices in the original license",
+  "files": {
+    "arrow-left.svg": "c5f4b88076108eb1a0d95336e1aa7e7bb1419a3a92af96f6247d88cd3456f933",
+    "arrow-right.svg": "288397fdb73bb4f783cf9eabb726ff47357df1d4e3f1201dd748090579f108b9",
+    "arrow-up.svg": "8c22c25874c80bb062bef985d207d8f1d4a4d7847237d0a8cf720a3235968518",
+    "calendar.svg": "312ac8e715ac2b71bcc942dec2e8de9c1929085474f08885af35b563f6aa7a0b",
+    "check.svg": "7f33acc9a77a61659531044525fc008edebe215bf4dcf1c789c8674ad3277db0",
+    "chevron-down.svg": "66ea878e72ed3488bb3b464c39dfdccee8d1f78e560dccea40e5e12da0e87e87",
+    "copy.svg": "ea80e566c7a12628a447cb53179b19aea4f60b9143e2becd0d0f20bf260e5718",
+    "ellipsis.svg": "4f495cc72013ffdfec677f03b33a150f7b4dd741979283fd6853a09024bca112",
+    "list-filter.svg": "36b94082bd7f161244c06a27cdeea647cb99ee5b805183cbeaf7ac3155a7103b",
+    "refresh-cw.svg": "2e10dd403c85a24f163d59fc6151aa21147fe9402e1305dfc8979208caee8944",
+    "rotate-ccw.svg": "622685386ab4017eabfde01cd74550a20b1924df233b353f73b6b155371f2afd",
+    "search.svg": "283d371c2e433817bb9c0c8310caa6c77fa4177c0f4f1168d9c83b97af7389dc",
+    "sliders-horizontal.svg": "e43a00e5eb684e6cbb61083bed2528d7a3fa5f265693eb2b5f314cd432aa65f4",
+    "square-pen.svg": "09bdac7fdb94058246a5d3132eea0976e690d01694179ab6f474faa2c21de59a",
+    "upload.svg": "42816ee1fa0e9d3b82272a97615c1e562b0e9de64780ebf21963bc1db0ceffd1",
+    "x.svg": "4a9cdab38fbb96162e7dace28e33f4ca0e49d8963a6162abc3d4691b7d675117",
+    "plus.svg": "7f6af73bf1ff6c4bca3f18351c8d1bdec6749c0c2530c4de5da85d520c21df17",
+    "package-open.svg": "261a0676ee3db3e5c64a528ac7f81a4893ddb3dfebd0549562f4ef5033757920",
+    "eye.svg": "5bf90197dd7629cad64a2e48d1186a71559deb6121207d10e3dc5b19ebaffdcf",
+    "eye-off.svg": "774bcd975c5de781a4ee778c76e5591bcdeb409955f7054847e7e6003da0a520",
+    "power.svg": "1e6b84a659aa43f826cdd8df0a63d349720004e2ccb10c33e415a990a311aa05",
+    "layers-2.svg": "2d659a3be70f6c517d24bf37c26c03c316db6d4dff941dc3464e26ece99beff3",
+    "minus.svg": "a0c743ab6dbf545d8a6e19ef3874f48ede686ce68d25e231bd81f540d97b1f19",
+    "folder.svg": "f0d92b94b797a8ab7d4c4ae33c3236c47f64068351b4e14bdb5014ee42898a39"
+  }
+}

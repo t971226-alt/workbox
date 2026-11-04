@@ -1,0 +1,19 @@
+{
+  "version": "1.1.0.60",
+  "kind": "local-build-snapshot",
+  "sourceFiles": 421,
+  "programFiles": 322,
+  "exeSha256": "c848ddda773d787e0b0d666f4c284d2c6ab2d2a3a0461d3d9322e2cf5f28f4dc",
+  "assets": {
+    "BOX-1.1.0.60-Portable-Windows-x64.zip": {
+      "bytes": 73788052,
+      "sha256": "0dbbd91b55c5c2483ccdb844adfb43824d9cdf12aa9dde70ee947a53a3f57614"
+    },
+    "BOX-1.1.0.60-Source.zip": {
+      "bytes": 11516932,
+      "sha256": "9b660d6b36ef840ff24ea367701318ae6137e5a23acc6aeb5574fbf2394db7d9"
+    }
+  },
+  "frozenChecksPassed": 144,
+  "freshTestsThisUpload": false
+}
